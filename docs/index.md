@@ -16,9 +16,9 @@ Stripe Checkout is a hosted payment page that handles card details, validation, 
 
 **Total on-hands time**: 5-15 minutes for the basic flow, depending on your comfort with python and terminals.
 
-![Image of someone making a purchase through Stripe’s phone app](images/stripe-transaction)
+![Image of someone making a purchase through Stripe’s phone app](images/stripe-transaction.png)
 
 ### Additional Details
-This guide uses **JavaScript** (Node/Express) for backend examples. If you prefer working in **Python** (Flask), you can follow the [companion guide here](link).
+This guide uses **JavaScript** (Node/Express) for backend examples. If you prefer working in **Python** (Flask), you can follow the [companion guide here](https://codymauro.github.io/stripe-payment-guide/).
 
 All examples use Stripe’s Sandbox, or testing, mode. No real money changes hands. This keeps things safe while you learn and test. Check the Prerequisites to set up.
