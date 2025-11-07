@@ -2,9 +2,7 @@
 hide:
   - toc
 ---
-This guide helps business owners, new developers, designers, and writers get comfortable integrating **Stripe Checkout** into their applications.  
-
-You’ll build a simple, one-time $10 payment flow that works end-to-end using Stripe’s prebuilt checkout page.  
+This guide helps business owners, new developers, designers, and writers get comfortable integrating **Stripe Checkout** into their applications. You’ll build a simple, one-time $10 payment flow that works end-to-end using Stripe’s prebuilt checkout page.  
 
 **The goal:** Understand how a secure payment moves from button-click to confirmation, without getting lost in setup, full-stack complexity, or Stripe’s 100-plus-page documentation.  
 ### Stripe Checkout Overview
