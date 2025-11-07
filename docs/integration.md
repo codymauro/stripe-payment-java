@@ -5,16 +5,15 @@ hide:
 First, make sure your `stripe-test` folder looks like this:
 ``` 
 stripe-test/
-├─ app.py
+├─ app.js
 └─ templates/
    └─ index.html
 ```
 ### 6. Start a Local Server
-Open a terminal and navigate to your project with `cd ~/Desktop/stripe-test`. Then start the server.
+Open a terminal and navigate to your project with `cd ~/Desktop/stripe-test`. Then start the server with: `node app.js`. 
 
-**Run**: `node app.js`. Look for “Server running on port 443” to confirm your local server is live.
+Look for `“Server running on port 443”` to confirm your local server is live. Terminal will also show you:
  
-Terminal will also show you:
 - A bold, red-lettered warning reminding you that this is a development server not meant for hosting a live site. 
 - Debugging tools unique to this session.
 
