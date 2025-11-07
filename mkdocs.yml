@@ -1,0 +1,26 @@
+site_name: Stripe Checkout Integration Quickstart for Beginners (JavaScript)
+site_url: https://codymauro.github.io/stripe-payment-java/
+
+theme:
+  name: material
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+
+nav:
+  - Overview: index.md
+  - Prerequisites: prerequisites.md
+  - Frontend and Backend: code.md
+  - Pay $10: integration.md
+  - Responses: response.md
+  - Troubleshooting: troubleshoot.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+extra_css:
+  - styles/extra.css
